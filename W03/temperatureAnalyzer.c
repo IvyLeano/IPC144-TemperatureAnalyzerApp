@@ -10,8 +10,8 @@
 #define MAXTEMP 40
 #define MINTEMP -40
 
-int main(void) {
-
+int main(void) 
+{
 	int days;
 	int high;
 	int low;
