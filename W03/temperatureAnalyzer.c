@@ -1,7 +1,7 @@
 /* W03
-*  temperatureAnalyzer.c
-*  Ivy Leano
-*/
+ * temperatureAnalyzer.c
+ * Ivy Leano
+ */
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
